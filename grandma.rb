@@ -5,7 +5,7 @@ def speak_to_grandma(str)
   elsif str == str.upcase
     return "NO, NOT SINCE 1938!"
   else
-    return ""
+    return "HUH?! SPEAK UP, SONNY!"
 end  
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
